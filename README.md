@@ -1,7 +1,7 @@
 # Sreesanth Reddy - Portfolio Website
 
 ## Project Overview
-A clean, professional static portfolio website showcasing professional experience, projects, and technical skills. Built with pure HTML, CSS, and vanilla JavaScript for optimal performance and easy deployment.
+This is my personal portfolio websire with a clean, professional static portfolio website showcasing professional experience, projects, and technical skills. Built with pure HTML, CSS, and vanilla JavaScript for optimal performance and easy deployment.
 
 
 ## Features
